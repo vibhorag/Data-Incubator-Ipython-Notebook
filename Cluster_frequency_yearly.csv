@@ -1,0 +1,154 @@
+Cluster 1: JWN
+Cluster 2: TAP
+Cluster 3: BWA
+Cluster 4: VAR
+"Cluster 5: AMZN, BCR"
+Cluster 6: MAS
+"Cluster 7: MAR, WYN, HOT"
+Cluster 8: MAT
+Cluster 9: XRAY
+Cluster 10: MAC
+Cluster 11: TSN
+Cluster 12: HUM
+Cluster 13: PCLN
+Cluster 14: FSLR
+"Cluster 15: HCP, HCN"
+Cluster 16: FTR
+"Cluster 17: PRGO, MYL"
+Cluster 18: MU
+Cluster 19: CTL
+Cluster 20: JEC
+Cluster 21: FMC
+Cluster 22: NTAP
+"Cluster 23: K, MMC, STJ, L, HRS, MCO, GPC, MKC, IP, ROK"
+Cluster 24: BAX
+Cluster 25: LH
+"Cluster 26: CAH, ABC"
+Cluster 27: STX
+Cluster 28: AON
+Cluster 29: RL
+Cluster 30: URBN
+Cluster 31: HRL
+"Cluster 32: IPG, OMC"
+Cluster 33: NLSN
+"Cluster 34: EOG, APC, ECL, CVX, AA"
+"Cluster 35: CAM, CHK, APA, DNR"
+Cluster 36: KSS
+"Cluster 37: BEN, MS, IBM, GS, LM, HIG, STI, PNC, PRU, RF, WFC, KEY, ITW, PNR, HBAN, INTU, PBCT, FITB, QCOM, KMB, LUK, MTB, NTRS, SJM, LEN, MET, USB, TROW"
+Cluster 38: IFF
+Cluster 39: KORS
+"Cluster 40: AVGO, BRCM"
+Cluster 41: BMS
+"Cluster 42: CME, BLK, CBG, CERN, AFL, DG, AKAM, EMN, ETN, DLTR, AVY, ADS"
+Cluster 43: DISCA
+Cluster 44: CSC
+Cluster 45: EW
+Cluster 46: SYMC
+Cluster 47: ADSK
+Cluster 48: PVH
+Cluster 49: DGX
+Cluster 50: NUE
+Cluster 51: PCP
+Cluster 52: UNP
+Cluster 53: BHI
+"Cluster 54: GIS, GE, NOC, MDT, F, VFC, RAI, KSU, PAYX, XL, UNM, KR, EQT, HAS, LEG, ESRX, GWW, COG, MNST, NSC, PEP, VZ, HD, JPM"
+Cluster 55: R
+Cluster 56: BBY
+"Cluster 57: VMC, MLM"
+Cluster 58: EXPE
+Cluster 59: DO
+Cluster 60: SWN
+Cluster 61: DD
+Cluster 62: M
+Cluster 63: ALXN
+"Cluster 64: GD, JNJ, TSO, VLO, MA, FB, TSCO, LMT, PGR, MRK, RTN, LUV, UNH, SWK, MCK, KIM, FDX, PG, COL, TDC, SBUX, GOOG, JCI, MDLZ, TEL, GILD, GME, TXT, HON"
+Cluster 65: NRG
+Cluster 66: VTR
+Cluster 67: NFLX
+Cluster 68: WU
+Cluster 69: TRIP
+Cluster 70: SPLS
+Cluster 71: HST
+Cluster 72: RIG
+Cluster 73: PDCO
+Cluster 74: HAR
+Cluster 75: THC
+Cluster 76: CTXS
+Cluster 77: GPS
+Cluster 78: DTE
+Cluster 79: SYY
+"Cluster 80: CMS, ED, DUK, AEP, AEE, ETR, EIX, D, AMT, CNP"
+Cluster 81: AES
+Cluster 82: GRMN
+Cluster 83: AMAT
+"Cluster 84: DOV, EMR, ADM"
+Cluster 85: CRM
+Cluster 86: NWSA
+Cluster 87: PM
+"Cluster 88: CMG, CMA, DOW, MMM, A, ABT, ETFC, BBT, DHR, EMC, C, AIG, CCL, AMG"
+"Cluster 89: MJN, XRX"
+Cluster 90: MOS
+"Cluster 91: SPG, PCL, GGP, VNO, PSA, PLD, ESS"
+Cluster 92: MON
+Cluster 93: ALTR
+"Cluster 94: AXP, COP, XEC"
+Cluster 95: DVA
+"Cluster 96: SE, KMI, OKE, WMB"
+"Cluster 97: FIS, EL, ORLY, NDAQ, MSFT, RSG, SEE, TSS, FISV, MHFI"
+Cluster 98: COH
+Cluster 99: CA
+Cluster 100: CF
+Cluster 101: WAT
+Cluster 102: HCBK
+"Cluster 103: AGN, AAPL, BLL, MO, AMGN, COST, BSX, CVS, AVB, BXP, APH, APD, BMY, CLX, POM, DHI, AET, CTAS, COF, CI, CL, CMCSA, GAS, CSCO, BA, ALLE, AMP, ADP, AZO, DAL, AN, ABBV"
+Cluster 104: GNW
+Cluster 105: CVC
+"Cluster 106: V, PPG"
+Cluster 107: PPL
+Cluster 108: UHS
+"Cluster 109: SRCL, IR"
+Cluster 110: URI
+Cluster 111: IRM
+Cluster 112: ARG
+Cluster 113: WDC
+Cluster 114: JBL
+Cluster 115: DRI
+Cluster 116: CCI
+Cluster 117: CCE
+Cluster 118: TIF
+Cluster 119: FLIR
+Cluster 120: SIAL
+Cluster 121: NAVI
+"Cluster 122: JNPR, RHI, VRSN"
+Cluster 123: OI
+Cluster 124: FLS
+Cluster 125: LLY
+Cluster 126: TMK
+"Cluster 127: FE, SO, TE, PNW, EXC, WEC, PEG, SRE, SCG, NEE, XEL"
+Cluster 128: MNK
+Cluster 129: LLL
+Cluster 130: ROP
+Cluster 131: ICE
+Cluster 132: PBI
+Cluster 133: GMCR
+"Cluster 134: NWL, SNA, XYL, WY, PX, PH, HPQ, WMT, HOG, TMO, UPS, IVZ, PCAR"
+Cluster 135: NEM
+"Cluster 136: CB, ACE"
+"Cluster 137: CTSH, ADBE, EA, DLPH, ACN"
+Cluster 138: NI
+Cluster 139: FAST
+"Cluster 140: NFX, MUR, HP, LYB, NBL"
+Cluster 141: ADT
+Cluster 142: DNB
+Cluster 143: ADI
+Cluster 144: TWC
+Cluster 145: MSI
+"Cluster 146: FOXA, SNI, VIAB, TWX"
+"Cluster 147: NVDA, KLAC, MCHP, INTC, LRCX, LLTC, TXN"
+"Cluster 148: FTI, NOV, OXY, HAL, HES, PXD"
+Cluster 149: ORCL
+Cluster 150: PKI
+Cluster 151: CNX
+Cluster 152: ISRG
+"Cluster 153: GT, FFIV, TJX, LB, RHT, MCD, HSY, SYK, MHK, LOW, DIS, UA, NKE"
+Cluster 154: PFG
